@@ -38,6 +38,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install `urllib
 
 ```bash
 pip install urllib3
+```
 
 
 
